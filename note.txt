@@ -1,0 +1,7 @@
+Steps to run the code:
+
+1) Open the code in the appropriate software preferably in Google Colab.
+2) Give any colour Image of any size as the Input.
+3) Run the code.
+4) Comment out the required part of the code to egt the desired result.
+5) Final output will be a BITSTREAM of 0 and 1 as an output of Huffman Coding.
